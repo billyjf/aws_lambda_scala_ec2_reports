@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/billyjf/aws_lambda_scala_ec2_reports.svg?branch=master)](https://travis-ci.org/billyjf/aws_lambda_scala_ec2_reports)
+
 # Overview
 Use infrastructure as code to implement a full aws Lambda, reporting on various part of ec2 for any given account.
 
